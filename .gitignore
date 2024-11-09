@@ -1,8 +1,2 @@
-# Ignore output files 
-/output/* 
-!/output/.keep 
-# Ignore OS-specific files 
-.DS_Store 
-Thumbs.db 
-# Ignore Processing auto-generated files 
-*.class 
+"node_modules/" 
+".DS_Store" 
